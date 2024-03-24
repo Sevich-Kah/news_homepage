@@ -1,5 +1,5 @@
 function openMenu() {
-    document.getElementById("sidebar").style.width = "50vh";
+    document.getElementById("sidebar").style.width = "47vh";
     document.getElementById("sidebar").style.backgroundColor = "hsl(36, 100%, 99%)";
     document.getElementById("overlay").style.display = "block"; // Show overlay
 }
